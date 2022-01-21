@@ -2,4 +2,4 @@
 ## Projetos bootcamp Take Blip
 
 ### 🔗 Links
-- [ Este repositório ](httpsgithub.comArthurRodriguesmdio-desafio-github.git)
+- [ Este repositório ](https://github.com/ArthurRodriguesm/dio-desafio-github/tree/main/desenvolvimento-web)
