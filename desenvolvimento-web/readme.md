@@ -1,7 +1,5 @@
 # Primeiros Passo para Desenvolvimento Web
 
-## Sobre
-
 <p>Repositório feito para salvar informações importantes do curso</p>	
 
 ### Termos - Chave
